@@ -40,9 +40,7 @@ nav ul  {
     margin-top: 10px;
 }
 
-nav ul li a:hover {
-    color: brown;
-}
+
 
 nav ul li a:hover  {
     color: rgb(173, 29, 29);
