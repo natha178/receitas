@@ -67,17 +67,19 @@ background-color: #f9f9f9;
   height: 250px;
   border-radius: 10px;
   transition: transform 0.3s ease;
+}
 
 .galeria img:hover {
     transform: scale(1.05);
 }
+
 
 .manchete {
     margin-top: 10px;
     font-weight: bold;
 }
 
-}
+
 
 
 main {
